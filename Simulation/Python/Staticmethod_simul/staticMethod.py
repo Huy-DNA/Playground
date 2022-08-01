@@ -14,6 +14,7 @@ class staticMethod():
 class Foo():
     @staticMethod
     def add(a, b):
+
         return a + b
     
 # Test code
