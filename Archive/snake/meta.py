@@ -1,0 +1,12 @@
+winWidth = 500
+winHeight = 600
+block = 25
+playground = block * 5
+tick = 10
+bigfont = ("Times New Roman", 30)
+medfont = ("Times New Roman", 20)
+smallfont = ("Times New Roman", 14)
+label = ("Times New Roman", 20)
+left = range(playground, winWidth, block)
+top = range(playground, winHeight, block)
+grid = [(i, j) for i in left for j in top]

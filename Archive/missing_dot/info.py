@@ -1,0 +1,9 @@
+winWidth = 900
+winHeight = 700
+canvasWidth = 500
+canvasHeight = 500
+fontbig = ("Times New Roman", 30)
+fontmed = ("Times New Roman", 20)
+fontsmall = ("Times New Roman", 15)
+fontitle = ("Times New Roman", 60)
+tick = 30
